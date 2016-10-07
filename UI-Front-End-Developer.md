@@ -1,6 +1,6 @@
 
-## Software Engineer
-Estamos buscando un front-end developer para incorporarse a proyectos innovadores.
+## UI/Front-End Developer
+Estamos buscando un UI/front-end developer para incorporarse a proyectos innovadores.
 > En BITLOGIC nos gusta la gente curiosa, que busca superarse y es apasionada de las innovaciones tecnológicas.
  
 ### Cuáles serán tu responsabilidades:
