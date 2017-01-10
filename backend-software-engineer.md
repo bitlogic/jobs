@@ -1,4 +1,4 @@
-## Software Engineer
+## Backend Software Engineer
 Estamos buscando un desarrollador ssr sr para incorporarse a proyectos innovadores.
 > En BITLOGIC nos gusta la gente curiosa, que busca superarse y es apasionada de las innovaciones tecnológicas.
  
