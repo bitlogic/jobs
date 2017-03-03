@@ -3,7 +3,7 @@ Estamos buscando un desarrollador ssr sr para incorporarse a proyectos innovador
 > En BITLOGIC nos gusta la gente curiosa, que busca superarse y es apasionada de las innovaciones tecnológicas.
  
 ### Cuáles serán tu responsabilidades:
-* Construir Pipelines de machine learning utilizando Phyton, R u algun otro lenguaje.
+* Construir Pipelines de machine learning utilizando Python, R u algún otro lenguaje.
 * Seleccionar y optimizar algoritmos de ML.
 * Participar del negocio proponiento nuevas herramientas o productos que agreguen mucho valor.
 
@@ -15,16 +15,16 @@ Estamos buscando un desarrollador ssr sr para incorporarse a proyectos innovador
 
 ### Requerimientos
 Que esperamos de vos:
-* Conocimiento de una o mas herramientas de machine learning o modelado estadistico
-* Conocimientos de Phyton, Javascript o R
-* Excelentes habilidades analiticas.
+* Conocimiento de una o mas herramientas de machine learning o modelado estadístico
+* Conocimientos de Python, Javascript o R
+* Excelentes habilidades analíticas.
 
  
 Esto suma:
 * Ingles
 * Moverse como pez en el agua en sistemas Linux.
 * Que no tengas miedo a experimentar con tecnologías modernas.
-* Que prefieras el open-source antes casi cualquier otra alternativa.
+* Que prefieras el open-source antes que casi cualquier otra alternativa.
  
 Esto resta:
 * COBOL
